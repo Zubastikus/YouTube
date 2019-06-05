@@ -1,0 +1,35 @@
+.hat{
+	height: 50px;
+}
+.body {
+	height: 1000px;
+}
+.bg{
+	background-color: yellow;
+}
+.bg{
+	background-color: red;
+}
+.bg{
+	background-color: blue;
+}
+.bg{
+	background-color: green;
+}
+.h-500m{
+	height: 500px;
+}
+.h-84m{
+	height: 84px;
+}
+.h-980m{height: 980px;}
+.h-42m{height: 40px;}
+.h-175m{height: 175px;}
+.h-40m{height: 40px;}
+.h-5Om{height: 50px;}
+.h-18Om{height: 180px;}
+.hO-75m{height: 75px;}
+.h-10Om{height: 100px;}
+.h-20m{height: 20px;}
+.w-30m{width: 20px;}
+.mt-03{margin-top: 3px;}
